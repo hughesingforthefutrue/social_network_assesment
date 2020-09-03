@@ -9,6 +9,8 @@ main {
   width: 850px;
   height: 225px;
   background-color: darkblue;
+  position: center;
+  margin: auto;
 }
 
 .span {
@@ -32,6 +34,7 @@ span {
   background-color: white;
   width: 850px;
   position: relative;
+  margin: auto;
 }
 
 .links {
